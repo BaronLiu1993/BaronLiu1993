@@ -6,11 +6,7 @@ I'm a third-year Industrial Engineering student at the University of Toronto, in
 
 I love building tools that help developers build faster and bring their ideas to life. Right now, I'm working on an agent SDK and CLI that makes it easier for anyone to connect their hardware projects to AI agents. My goal is to work on products that inspire more people to experiment, build, and get creative!
 
-I was previously a:
-
-Summer 2026: SWE Intern @ Wealthsimple
-
-Winter 2026: SWE Intern @ Ada
+I was previously at Wealthsimple and Ada as a SWE intern. 
 
 ## Socials:
 
